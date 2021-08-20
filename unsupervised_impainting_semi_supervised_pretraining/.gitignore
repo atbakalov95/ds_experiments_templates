@@ -1,0 +1,7 @@
+cropped_images/images/*
+processed_images/*
+reshaped_images/images/*
+
+.DS_Store
+!.gitkeep
+
